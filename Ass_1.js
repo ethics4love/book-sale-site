@@ -1,0 +1,1 @@
+// JavaScript placeholder for future cart and user interaction functionality.
